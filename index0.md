@@ -9,7 +9,7 @@ Ahora sí que empieza propiamente el desarrollo del contenido del curso. Este pr
 
 ## Galería de imágenes
 
-[![](img/Picasa.svgThumbnail.png)](img/Picasa.svg.png)
+
 [![](img/mORGUEFILEThumbnail.png)](img/mORGUEFILE.gif)
 [![](img/comercializacion-de-una-pequena-empresa-en-YouTubeThumbnail.png)](img/comercializacion-de-una-pequena-empresa-en-YouTube.png)
 [![](img/googleThumbnail.png)](img/google.jpg)
