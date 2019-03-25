@@ -17,7 +17,7 @@ Mandar vídeos descargados al tutor va a resultar imposible por la gran cantidad
 >
 >_Julián Trullenque. Aularagón_
 
-A continuación te explicamos dos programas gratis para descargar vídeos, pero si pinchas [aquí](http://www.catedu.es/aularagonpowerpoint/TEMATICOS/VIDEOYFLASH/comobajarvideos.html "Galería programas descarga vídeos") te darás cuenta de que hay muchos más en el mercado. **Escoge el que te guste más** y úsalo cuando las circunstancias así lo requieran.
+A continuación te explicamos dos programas gratis para descargar vídeos, pero hay muchos más en el mercado. **Escoge el que te guste más** y úsalo cuando las circunstancias así lo requieran.
 
 ## **1\. aTube Catcher**
 
