@@ -2,10 +2,6 @@
 
 ## Para saber más
 
-*   Web de la _Universidad de Cornell_ donde se ofrece una terminología básica sobre las **imágenes digitales.**
-
-[http://www.library.cornell.edu/preservation/tutorial-spanish/intro/intro-01.html](http://www.library.cornell.edu/preservation/tutorial-spanish/intro/intro-01.html) 
-
 *   Tutorial de _Karina Crespo_ para aprender a utilizar el **servicio Youtube**: cómo subir vídeos, organizar nuestra cesta, seleccionar favoritos, editar perfil, etc.
 
 [http://www.slideshare.net/lalunaesmilugar/tutorial-de-youtube](http://www.slideshare.net/lalunaesmilugar/tutorial-de-youtube)
