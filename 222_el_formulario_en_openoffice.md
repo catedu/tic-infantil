@@ -10,5 +10,7 @@ Si eres de los que utilizas  este procesador de textos, verás que no hay mucha
 
 
 
-Para más información puedes mirar el punto 3.17 del tutorial del [IES Muñoz Torrero](http://iesmunoztorrero.juntaextremadura.net/web/lenix/writer1/oowriter3desc.html#bformularios "Tutorial Formulario Writer IES Muñoz Torrero")
+Para más información puedes mirar:
+* Botones y comandos: Punto 3.17 del tutorial del [IES Muñoz Torrero](http://iesmunoztorrero.juntaextremadura.net/web/lenix/writer1/oowriter3desc.html#bformularios "Tutorial Formulario Writer IES Muñoz Torrero")
+* Proceso de creación de un formulario: [videotutorial](https://www.youtube.com/watch?v=gY05hFmz3YM)
 
