@@ -14,7 +14,7 @@ Al haber muchos [tipos de scanner](http://centros5.pntic.mec.es/ies.siglo.xxi/we
 
 
 
-A continuación te ofrecemos las **fases** por las que tendrás que pasar en la mayoría de los escáneres. De todas formas, si quisieras tener unos conocimientos previos sobre el uso del escáner, te recomendamos este manual para escanear de [J. María Gil ](http://www.uam.es/personal_pdi/stmaria/jvitalle/web_cuba/tema6/tutorial_escanear.pdf "Manual para escanear"):
+A continuación te ofrecemos las **fases** por las que tendrás que pasar en la mayoría de los escáneres:
 
 1.  Apretar el botón de encendido del escáner
 2.  Hacer clic en el icono que hay en el ordenador
