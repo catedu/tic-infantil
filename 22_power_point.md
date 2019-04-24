@@ -10,5 +10,5 @@ Nosotros vamos a trabajar con la versión 2007, pero tú lo puedes hacer con **v
 
 Si eres un experto en Power Point, puedes saltarte la lectura de todo el apartado 2.2. Pero, tanto como si no has trabajado nunca con presentaciones, o lo has hecho–aunque tienes dudas- te recomendamos este detallado [curso sobre presentaciones de Aularagón (CATEDU)](http://moodle.catedu.es/course/view.php?id=88). Puedes entrar como invitado sin necesidad de contraseña.
 
-Si todavía trabajas con la **versión 2003/XP** mírate este sencillo tutorial de [Aulaclic](http://www.aulaclic.es/power2003/index.htm "Tutorial Power Point 2003") o este otro más elaborado de la [Universidad de Navarra](http://www.unav.es/SI/servicios/guias/MicrosoftPowerPointXP.pdf "Tutorial Power Point 2003").
+Si todavía trabajas con la **versión 2003/XP** mírate este sencillo tutorial de [Aulaclic](http://www.aulaclic.es/power2003/index.htm "Tutorial Power Point 2003").
 
