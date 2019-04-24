@@ -13,9 +13,9 @@ Cuando grabes, ten en cuenta las siguientes **consideraciones**:
 
 **El entorno del programa** es muy sencillo, con iconos y menús muy intuitivos. En la siguiente figura te detallamos los elementos indispensables para comenzar a grabar.
 
-1.- **Barra de menús. S**e puede utilizar para activar cualquier opción del programa.
+1.- **Barra de menús.** Se puede utilizar para activar cualquier opción del programa.
 
-2.- **Barra de herramientas. **Contiene algunas de las operaciones de uso más frecuente:
+2.- **Barra de herramientas.** Contiene algunas de las operaciones de uso más frecuente:
 
 3.- **Barra de control de reproducción**. Presenta los botones de grabación y reproducción.
 
@@ -29,10 +29,10 @@ Cuando grabes, ten en cuenta las siguientes **consideraciones**:
 
 8.- **Pista de audio.**
 
-9.-** Barra de Selección**
+9.-**Barra de Selección**
 
   
-Te animamos a que “juegues” con la barra de herramientas y averigües las distintas [funciones del menú](http://www.aularagon.org/Files/UserFiles/File/Forprof/Hm/modulo-02.pdf "Funciones del menú de Audacity"). Por ejemplo:
+Te animamos a que “juegues” con la barra de herramientas y averigües las distintas funciones del menú. Por ejemplo:
 
 Los **controles de grabación y reproducción** son los de toda la vida. Así, para iniciar la grabación es tan fácil como pinchar sobre el botón rojo de “_Grabar_”. Si quieres parar la grabación pincharás sobre el botón con el cuadrado en el interior. A partir de ese momento podrás seleccionar fragmentos para suprimirlos, crear efectos de sonido, duplicar, cortar, pegar, mezclar pistas, eliminar ruidos de fondo, etc.
 
