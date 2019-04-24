@@ -42,7 +42,7 @@ Puedes unir los archivos automáticamente o usar las herramientas de edición of
 No tienes necesidad de crear ninguna cuenta. La aplicación te envía a la pagina de edición, donde puedes usar algunas herramientas muy básicas. Al ser un editor tan simple, puedes preparar tus videos para usarlos en otros servicios. Después de cargar tu vídeo lo puedes convertir en el formato necesario o crear URL con el acceso directo a tu vídeo.
 
 
-[![Logo Creaza](img/creazalogo.jpg "Logo creaza")](http://www.creaza.com/movieeditor/overview "Creaza editor videos online") 
+[![Logo Creaza](img/creazalogo.jpg "Logo creaza")](https://web.creaza.com/en/ "Creaza editor videos online") 
 
 
 Permite no solo editar vídeos online, pero también compartir tus vídeos en linea, y, sobre todo, puedes editar el vídeo en conjunto con otros usuarios. Es posible recortar, mezclar y añadir una pista de audio para tu vídeo. Es necesario registrarse.
@@ -54,8 +54,4 @@ Permite no solo editar vídeos online, pero también compartir tus vídeos en li
 Puedes trabajar con una interfaz bien conocida y no te perderás dentro de las opciones disponibles, ya que son solo las opciones mas básicas.
 
 
-[![Logo One true media](img/onetrologo.jpg "Logo one true media")](http://www.onetruemedia.com/otm_site/public_home "One true media editor videos") 
-
-
-Puedes crear vídeos estupendos mezclando fotos, vídeos con efectos, música y texto. Es muy fácil de utilizar. Necesitamos registro
 
