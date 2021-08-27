@@ -10,4 +10,4 @@ de ser profesionales en constante evolución que desean asumir las TIC para su
 práctica diaria en el aula. Una buena actitud, tiempo y mucha paciencia harán el
 resto.
 
-![](img/cloud.svg)
+![](img/cloud.png)
